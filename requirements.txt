@@ -1,0 +1,6 @@
+requirements
+
+python 3.6+
+requests module (pip install requests)
+colorama module (pip install colorama)
+smtp login credentials
